@@ -390,7 +390,7 @@ En cuanto a la sensibilidad (capacidad para identificar correctamente los casos 
 El F1-Score, que representa la media armónica entre precisión y sensibilidad, confirma la superioridad del VGG16 con un valor de 0.985, seguido por el CNN con 0.967, y finalmente el ResNet50 con 0.846. Estos resultados sugieren que el VGG16 sería la mejor elección para implementación en un entorno real, ya que proporciona el mejor balance entre todas las métricas de rendimiento evaluadas.
 
 
-### 8. Análisis de Resultados y Elección del mejor modelos
+### Análisis de Resultados y Elección del mejor modelos
 
 **Análisis de Inferencia**
 
