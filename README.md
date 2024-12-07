@@ -190,11 +190,14 @@ Se requiere que esté instalado previamente:
 * Colab (cuanta en google colab)
 * Python version 3
 * Git
-
+* Tener una cuenta en Kagle
 
 ### Cómo Ejecutar
 
 Para su ejecución ingresar al siguiente enlace de google COLAB:
+
+https://colab.research.google.com/drive/1T2xyzkG6yMAGWMyhJ5QqDbLhdmspk56W?usp=sharing  
+
 
 ## Declaración del Problema
 
