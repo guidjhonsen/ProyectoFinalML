@@ -198,6 +198,9 @@ Para su ejecución ingresar al siguiente enlace de google COLAB:
 
 https://colab.research.google.com/drive/1T2xyzkG6yMAGWMyhJ5QqDbLhdmspk56W?usp=sharing  
 
+### ENLACE DEL VIDEO DE PRESENTACIÓN
+
+https://www.youtube.com/watch?v=sDwN6OreMlw 
 
 ## Declaración del Problema
 
